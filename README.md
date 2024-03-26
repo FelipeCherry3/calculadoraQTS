@@ -22,4 +22,4 @@ Antes de começar, certifique-se de ter os seguintes requisitos:
 
 3. Navegue até a classe de teste unitários, `Main.java`.
 
-4. Execute os testes clicando com o botão direito na classe de teste e selecionando "Run MeuTeste" (ou equivalente).
+4. Execute os testes clicando com o botão direito na classe de teste e selecionando "Run Main.java" (ou equivalente).
