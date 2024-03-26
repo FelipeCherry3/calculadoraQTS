@@ -1,5 +1,12 @@
 package org.example;
 
+/**
+ * @author Felipe
+ * @version 1.0
+ * @since release 1.0
+ */
+
+
 public class Calculadora {
 
     public int soma (int a, int b){
