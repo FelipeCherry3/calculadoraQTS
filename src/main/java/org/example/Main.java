@@ -1,7 +1,10 @@
 package org.example;
 
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
+/**
+ * @author : Felipe
+ * @version 1.0
+ * @since release 1.0
+ */
 public class Main {
     public static void main(String[] args) {
         //Instância do Objeto
