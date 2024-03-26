@@ -10,6 +10,9 @@ Antes de começar, certifique-se de ter os seguintes requisitos:
 - IntelliJ IDEA instalado (ou outra IDE de sua preferência)
 - Git instalado para clonar o repositório (opcional)
 
+## Documentação
+- Documentação em Javadoc se encontra na pasta 'javadoc' na branch master
+
 ## Como usar o projeto
 
 1. Clone o repositório para sua máquina local:
