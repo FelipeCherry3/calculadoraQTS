@@ -1,6 +1,8 @@
 # Projeto de Testes Calculadora com JUnit 5.8
 
 Este é um projeto de exemplo para demonstrar como escrever e executar testes automatizados usando JUnit 5.8 no IntelliJ IDEA.
+![image](https://github.com/FelipeCherry3/calculadoraQTS/assets/118016424/4415d702-5649-487e-8a25-5fee96673571)
+
 
 ## Pré-requisitos
 
